@@ -6,7 +6,7 @@
       "nodemailer": "^6.9.2",
       "path": "^0.12.7"
     },
-    "scripts"{
+    "scripts":{
     "build": "vite build"
     },
     "engines": {
